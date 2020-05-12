@@ -1,3 +1,0 @@
-# Testing docs
-
-Testing docs.
