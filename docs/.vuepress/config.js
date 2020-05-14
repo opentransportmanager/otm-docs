@@ -15,6 +15,7 @@ module.exports = {
         collapsable: false,
         sidebarDepth: 0,
         children: ["/adr/template.md"],
+        children: ["/adr/apiLanguageChoice.md"],
       },
     ],
   },
