@@ -16,7 +16,9 @@ module.exports = {
         sidebarDepth: 0,
         children: [
           "/adr/template.md",
-          "/adr/api_language_choice.md"],
+          "/adr/api_language.md",
+          "/adr/api_framework.md",
+          "/adr/database.md"],
       },
     ],
   },
